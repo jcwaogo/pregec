@@ -1,0 +1,2 @@
+def dirBonjour():
+	return("bonjour")
